@@ -5,3 +5,4 @@ R script for ENERGY management data
 - Data visualization
 - Use of Dyhraph Libraries (in R)
 - Use of R Shiny
+- .........in progress..............................................
